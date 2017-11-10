@@ -1,3 +1,3 @@
 # zapp
 
-I'm king of the univserse! 
+I'm king of the universe! 
